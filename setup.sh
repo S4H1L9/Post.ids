@@ -16,6 +16,6 @@ echo -e "\033[32m\033[1mProgram Launching...." | pv -qL 10
 
 rm setup.sh 
 
-python Multi-Cookies.py
+python main.py
 
  
